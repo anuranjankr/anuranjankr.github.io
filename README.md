@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/anuranjankr/anuranjankr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am Anuranjan Kumar, computer science undergraduate at [IIIT Bhagalpur](https://www.iiitbh.ac.in/) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
